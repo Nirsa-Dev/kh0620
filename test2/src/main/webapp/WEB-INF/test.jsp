@@ -7,8 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1> 확인용 22</h1>
-	<h1> 브랜치</h1>
-	<h1> 확인용 22</h1>
+	<h1>dd</h1>
 </body>
 </html>
